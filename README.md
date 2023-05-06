@@ -1,6 +1,3 @@
-# Natural-Language-Processing
-
-
 # Natural Language Processing (NLP)
 
 This repository is dedicated to Natural Language Processing (NLP) techniques and tools. NLP is a subfield of Artificial Intelligence that deals with the interaction between computers and human languages, including text and speech. 
